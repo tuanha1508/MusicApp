@@ -1,4 +1,4 @@
-import { colors, fontSize } from 'constant/token'
+import { colors, fontSize } from '@/constant/token'
 import { StyleSheet } from 'react-native'
 
 export const defaultStyles = StyleSheet.create({

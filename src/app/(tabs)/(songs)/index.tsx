@@ -1,4 +1,4 @@
-import { defaultStyles } from "styles"
+import { defaultStyles } from "@/styles"
 import { View, Text } from "react-native"
 
 const SongsScreen = () => {
